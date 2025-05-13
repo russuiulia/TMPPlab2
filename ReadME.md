@@ -1,4 +1,6 @@
-# Șabloane Structurale (Structural Design Patterns)
+# Laboratorul nr.2 TMPP
+
+# Șabloane Structurale 
 
 Șabloanele structurale sunt utilizate pentru a compune clase și obiecte în structuri mai mari, menținând în același timp flexibilitatea și eficiența acestora. Ele ajută la stabilirea relațiilor între entități fără a afecta prea mult codul existent.
 
